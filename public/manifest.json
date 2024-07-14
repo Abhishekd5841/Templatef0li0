@@ -1,0 +1,25 @@
+{
+  "short_name": "PortFolio",
+  "name": "PortFolio",
+  "icons": [
+    {
+      "src": "/Favicon.gif",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/Favicon1.gif",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Favicon2.gif",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff"
+}
